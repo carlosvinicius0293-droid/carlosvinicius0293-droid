@@ -2,7 +2,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
 ###
-<h1 align="center">Olá Mundo, Eu Sou Carlos Vinicius!</h1>
+<h1 align="center">Hello World! i'm Carlos Vinicius!</h1>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,arduino,vscode,github,figma" />
@@ -20,10 +20,10 @@
 
 <div align="center">
 
-🎓 Estudante de Ciência da Computação na CESAR School<br>
-🤖 Entusiasta de Tecnologia e Desenvolvimento de Software<br>
-🚀 Sempre aprendendo e construindo novos projetos<br>
-🐍 Desenvolvedor Python em formação<br>
+🎓 Computer Science Student at CESAR school<br>
+🚀 Always learning & building new projects<br>
+🤖 Tech Enthusiast | Software Developer<br>
+🐍 Python developer<br>
 
 </div>
 
